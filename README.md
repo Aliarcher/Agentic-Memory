@@ -33,7 +33,7 @@ These four memory systems provide a holistic approach to understanding and archi
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/agentic-memory.git
+git clone https://github.com/Aliarcher/Agentic-Memory.git
 cd agentic-memory
 
 # Install dependencies
@@ -41,4 +41,5 @@ pip install -e .
 
 # Copy environment variables
 cp .env.example .env
+
 # Edit .env with your settings
